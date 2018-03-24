@@ -5,7 +5,11 @@
 
 There have been a lot of complaints about Creality not releasing their sources, so... *here it is.*
 
-The only files that have been edited are DOGMbitmaps.h files to remove the Creality3D logo.
+I have had this copy of the source for over a year, since I did the first CR10 YouTube video.
+
+Originally, if you just asked for source they would supply a zip file, but they have since reversed their position on giving the source out. In not giving out the source, they are not compliant with the GPL.
+
+The *only* files that I have edited are DOGMbitmaps.h files to remove the Creality3D logo.
 
 No other changes have been made. It is *exactly what Creality installs on the CR10 Melzi.*
 
