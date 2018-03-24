@@ -13,7 +13,7 @@ No other changes have been made. It is *exactly what Creality installs on the CR
 
 Below is a copy of the License portion of the Marlin Firmware readme, and the reason why this mirror exists.
 
-More information about Marlin Firmware can be found at [MarlinFW.org](http://marlinfw.org) and on their Github page [here] (https://github.com/MarlinFirmware).
+More information about Marlin Firmware can be found at [MarlinFW.org](http://marlinfw.org) and on their Github page [here](https://github.com/MarlinFirmware).
 
 ## License
 
